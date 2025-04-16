@@ -1,5 +1,5 @@
 # Baspro II Tugas 3
-<h6># Hasil dari Perkalian Matriks 5x5</h6>
+<h3>Hasil dari Perkalian Matriks 5x5</h3>
 [3141, 5186, 5466, 7825, 8547]<br>
 [2431, 4852, 6269, 7917, 7868]<br>
 [1193, 2758, 3656, 3531, 3431]<br>
